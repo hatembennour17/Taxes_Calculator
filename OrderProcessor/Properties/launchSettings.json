@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "1;Book;12.49;false;false,1;Book;12.49;false;false,1;Music_CD;14.99;false;true,1;Chocolate_bar;0.85;false;false 1;Imported_box_of_chocolates;10.00;true;false,1;Imported_bottle_of_perfume;47.50;true;true 1;Imported_bottle_of_perfume;27.99;true;true,1;Bottle_of_perfume;18.99;false;true,1;Packet_of_headache_pills;9.75;false;false,1;Imported_box_of_chocolates;11.25;true;false,1;Imported_box_of_chocolates;11.25;true;false"
+    }
+  }
+}
